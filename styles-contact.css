@@ -95,8 +95,10 @@ html, body {
 h1 {
 	font-size: 2em;
 	margin: 25px auto 10px auto;
-	font-family: "matemasie", sans-serif;
 	color: rgba(2, 22, 95, 0.75);
+	font-family: "ivypresto-headline", serif;
+font-weight: 400;
+font-style: normal;
 	/*font-weight: 400;
 	font-style: normal;	*/
 }
@@ -111,8 +113,9 @@ p {
 	font-size: 1.5em;
 	line-height: 1.4;
 	color: rgba(1, 14, 63, 0.75);
-	font-family: "maname", sans-serif;
-	margin-top: 25px;
+	font-family: "ivypresto-headline", serif;
+font-weight: 400;
+font-style: normal;
 	/*font-weight: 400;
 	font-style: normal;*/
 }
