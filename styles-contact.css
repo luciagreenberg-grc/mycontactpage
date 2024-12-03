@@ -108,10 +108,12 @@ h2 {
 }
 
 p {
-	font-size: 1.5em;
-	line-height: 1.4;
+	font-size: 1.2em;
+	line-height: 1.6;
 	color: rgba(1, 14, 63, 0.75);
 	font-family: "ivypresto-headline", serif;
+	margin-top: 25px;
+	letter-spacing: .2em;
 	/*font-weight: 400;
 	font-style: normal;*/
 }
