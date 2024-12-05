@@ -126,7 +126,6 @@ nav{
 	border-width: 3px 0;
 	text-align: center;
 	margin-top: 2em;
-	color: rgba(134, 87, 49, 0.75);
 }    
 nav li{
 	display: inline;
@@ -135,7 +134,6 @@ nav li{
 nav a{
 	display: inline-block;
 	padding: 10px;
-	color: rgba(134, 87, 49, 0.75);
 	
 }
 a{
