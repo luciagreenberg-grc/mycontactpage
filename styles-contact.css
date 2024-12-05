@@ -143,5 +143,5 @@ a{
 }
 a:hover{
 	color: rgba(134, 87, 49, 0.75);
-	background: rgb(212, 196, 195);
+	background: rgba(212, 196, 195, 0.75);
 }
