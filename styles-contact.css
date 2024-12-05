@@ -130,6 +130,7 @@ nav{
 }    
 nav li{
 	display: inline;
+	color: rgba(134, 87, 49, 0.75);
 }   
 nav a{
 	display: inline-block;
