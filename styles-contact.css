@@ -72,7 +72,7 @@ html, body {
 	min-width: 300px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(159, 162, 177, 0.33); /*this uses opacity of 75% for the background color*/
+ 	background: rgba(145, 154, 170, 0.33); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 	border-radius: 50px 50px 50px 50px;
 	/*this is my fade code*/
