@@ -84,6 +84,25 @@ html, body {
 	/*border: 4px dashed white;*/
 }
 
+@keydrames fadeIn {
+	0% { opacity: 0; }
+	100% { opacity 1; }
+}
+
+@-moz-keyframes fadeIn {
+	0% { opacity: 0; }
+	100% { opacity 1; }
+}
+
+@-webkit-keyframes {
+	0% { opacity: 0; }
+	100% { opacity 1; }
+}
+
+@-ms-keyframes {
+	0% { opacity: 0; }
+	100% { opacity 1; }
+}
    
 #logo {
     width: 50%;
